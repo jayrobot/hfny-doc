@@ -1,10 +1,12 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Guides
+description: A collections of guides of how to implement the HFNY program.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+One Step
+
+- [FAQ](./PDFs/One Step Toolkit.pdf)
+- [YouTube video playlist](https://youtube.com/playlist?list=PLLbExR7RvO17HunIm7mywWkUutUrhchLt)
 
 ## Further reading
 
